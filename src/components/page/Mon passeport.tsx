@@ -10,7 +10,7 @@ const festivalPass = {
 
 export default function MonPasseport() {
   return (
-    <section className="min-h-screen bg-linear-to-br from-black via-zinc-900 to-red-950 flex items-center justify-center px-6 py-16 text-white">
+    <section className="min-h-[calc(100vh-80px)] bg-linear-to-br from-black via-zinc-900 to-red-950 flex items-center justify-center px-6 py-24 text-white">
       <div className="max-w-md w-full bg-zinc-900 rounded-3xl shadow-2xl overflow-hidden border-2 border-red-500">
 
         <div className="bg-red-600 text-center py-6">

@@ -21,7 +21,7 @@ export const myPlanning = [
 
 export default function MonPlanning() {
   return (
-    <section className="min-h-screen bg-linear-to-b from-black to-zinc-900 text-white py-16 px-6">
+    <section className="min-h-[calc(100vh-80px)] bg-linear-to-b from-black to-zinc-900 text-white py-24 px-6 flex flex-col justify-center">
       <div className="max-w-6xl mx-auto">
         <h1 className="text-5xl font-bold text-center text-red-500 mb-4">
           Mon Planning Mawazine 2026

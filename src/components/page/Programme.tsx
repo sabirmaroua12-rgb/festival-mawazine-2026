@@ -20,7 +20,7 @@ const program = [
 
 export default function Programme() {
   return (
-    <section className="min-h-screen bg-black text-white py-16 px-6">
+    <section className="min-h-[calc(100vh-80px)] bg-black text-white py-24 px-6 flex flex-col justify-center">
       <div className="max-w-6xl mx-auto">
         <h1 className="text-5xl font-bold text-center mb-12 text-red-500">
           Mawazine Festival 2026
